@@ -1,7 +1,7 @@
 {
   "title":"SVG in HTML img element",
   "description":"Method of displaying SVG images in HTML using &lt;img>",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-1.html#the-img-element",
+  "spec":"http://www.w3.org/TR/html5/the-img-element.html#the-img-element",
   "status":"wd",
   "links":[
     {
